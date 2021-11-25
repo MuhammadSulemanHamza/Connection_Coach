@@ -12,7 +12,7 @@
    <uses-permission android:name="android.permission.INTERNET"/>
 
    <application
-        android:label="connection_coach"
+        android:label="Connection Coach"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -29,11 +29,12 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/images/connection_coach.png"
+  remove_alpha_ios: true
+  image_path: "assets/images/connection_coach_app_icon.png"
 
 flutter_native_splash:
   color: "#FECCD1"
-  image: assets/images/connection_coach.png
+  image: assets/images/connection_coach_logo.png
   android: true
   ios: true
 
